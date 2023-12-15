@@ -10,5 +10,5 @@ rename all the occurrences - :%s/target/new_value/g <br />
     new_value is the replacement text. <br />
     g at the end stands for global, which means replace all occurrences on each line. If you omit g, only the first occurrence on each line is replaced. <br />
 
-
+Vy - copy the hole line (yy work as well)
 
