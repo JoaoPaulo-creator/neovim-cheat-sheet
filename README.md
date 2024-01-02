@@ -11,14 +11,8 @@ rename all the occurrences - :%s/target/new_value/g <br />
     g at the end stands for global, which means replace all occurrences on each line. If you omit g, only the first occurrence on each line is replaced. <br />
 
 # Visual mode 
-Vy - copy the hole line (yy work as well)
-Vx - cut the hole line 
-vap or Vap - highlight an entire block of code
-=======
 Vy - copy the hole line (yy work as well) <br />
 Vx - cut the hole line <br />
 =ap - format file <br />
 vap - highlight the entire block of code
-
-
 
